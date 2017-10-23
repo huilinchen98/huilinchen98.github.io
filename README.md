@@ -25,7 +25,7 @@
     <pre> </pre>
     <pre> </pre>
      <pre> </pre>
-<a style = "border: 2px solid LightGray;color: black;font-size: 40px;text-decoration: inherit; padding: 80px 50px" href="https://www.amazon.com"> 72.21.211.176</a>
+<a style = "border: 2px solid LightGray;color: black;font-size: 40px;text-decoration: inherit; padding: 80px 40px" href="https://www.amazon.com"> 72.21.211.176</a>
 
 <a style = "border: 2px solid LightGray; color: black;font-size: 40px;text-decoration: inherit; padding: 80px 21px" href="https://www.dropbox.com"> 199.47.217.179</a> 
   
