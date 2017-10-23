@@ -16,11 +16,11 @@
 <a style = "margin-top: 50px;border: 2px solid LightGray; color: black;font-size: 40px;text-decoration: inherit; padding: 80px 20px; display: inline-block" href="https://www.tumblr.com"> 174.121.194.34</a>
 
 
-<a style = "margin-top: 50px;border: 2px solid LightGray;color: black;font-size: 40px;text-decoration: inherit; padding: 70px 40px;display: inline-block" href="https://www.amazon.com"> 72.21.211.176</a>
+<a style = "margin-top: 30px;border: 2px solid LightGray;color: black;font-size: 40px;text-decoration: inherit; padding: 80px 40px;display: inline-block" href="https://www.amazon.com"> 72.21.211.176</a>
 
-<a style = "margin-top: 50px;border: 2px solid LightGray; color: black;font-size: 40px;text-decoration: inherit; padding: 80px 21px; display: inline-block" href="https://www.dropbox.com"> 199.47.217.179</a> 
+<a style = "margin-top: 30px;border: 2px solid LightGray; color: black;font-size: 40px;text-decoration: inherit; padding: 80px 21px; display: inline-block" href="https://www.dropbox.com"> 199.47.217.179</a> 
   
-<a style = "margin-top: 50px;border: 2px solid LightGray; color: black;font-size: 40px;text-decoration: inherit; padding: 80px 20px; display: inline-block" href="https://www.wikipedia.org"> 91.198.174.192</a>
+<a style = "margin-top: 30px;border: 2px solid LightGray; color: black;font-size: 40px;text-decoration: inherit; padding: 80px 20px; display: inline-block" href="https://www.wikipedia.org"> 91.198.174.192</a>
 
     
 </body>
