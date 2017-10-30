@@ -2,7 +2,8 @@
 <head>
 <title>art8project</title>
 </head>
-<body>  
+<body style = " background-image:url(http://www.oddwallpapers.com/wp-content/uploads/2015/11/desktop-wallpapers-space-7.jpg);background-size: 100% 100%;background-repeat: no-repeat">  
+ 
 <a style = "border: 2px solid LightGray;color: black;font-size: 40px;text-decoration: inherit; padding: 80px 40px; background-image:url(http://www.coderglass.com/social/images/facebook-style-homepage.JPG);background-size: 100% 100%" href="https://www.wikipedia.org"> 66.220.144.0</a>
 
 <a style = "border: 2px solid LightGray; color: black;font-size: 40px;text-decoration: inherit; padding: 80px 90px; background-image:url(http://blogoscoped.com/files/google-homepage-in-2011-signed-in.png);background-size: 100% 100%" href="https://www.youtube.com"> 8.8.8.8</a> 
