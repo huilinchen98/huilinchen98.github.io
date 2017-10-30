@@ -13,7 +13,7 @@
 
 <a style = "margin-top: 90px;border: 2px solid LightGray;color: black;font-size: 40px;text-decoration: inherit; padding: 80px 30px;display: inline-block;background-image:url(http://cdn1.theodysseyonline.com/files/2015/09/06/635771651224434774-1332020642_reddit%20front%20page.png);background-size: 100% 100%" href="https://www.tumblr.com"> 72.247.244.88</a>
 
-<a style = "margin-top: 50px;border: 2px solid LightGray; color: black;font-size: 40px;text-decoration: inherit; padding: 80px 30px; display: inline-block" href="https://myart8project.me"> 98.137.149.56</a> 
+<a style = "margin-top: 50px;border: 2px solid LightGray; color: black;font-size: 40px;text-decoration: inherit; padding: 80px 30px; display: inline-block" href="https://huilinchen98.github.io"> 98.137.149.56</a> 
   
 <a style = "margin-top: 50px;border: 2px solid LightGray; color: black;font-size: 40px;text-decoration: inherit; padding: 80px 20px; display: inline-block;background-image:url(https://www.seoclerk.com/pics/407646-1KMDZ41447351234.png);background-size: 100% 100%" href="https://www.reddit.com"> 174.121.194.34</a>
 
